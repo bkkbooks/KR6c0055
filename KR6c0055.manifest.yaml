@@ -1,0 +1,509 @@
+canonical_identifier: bkk:krp/KR6c0055/v1
+canonical_location: https://kanripo.org/bkk/KR6c0055/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 銷釋金剛經科儀會要註解
+  identifiers:
+    alt_id:
+    - X24n0467
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X24/X24n0467.xml
+    old_id: X24n0467
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0055_000.yaml, hash: 'sha256:1328c5d413aa50487664f1f4d596fb73be6f1828dcd21f516b5677a222e071b7'}
+  - {seq: 1, filename: KR6c0055_001.yaml, hash: 'sha256:c966da7cf9bdb7d76292fcf74ee56df0f1003f214242a38d2ca55694b3d5288e'}
+  - {seq: 2, filename: KR6c0055_002.yaml, hash: 'sha256:92207f83464978a9d642a5d8e0a7cf2867a9965eb37b7f95e66e693bb8879abd'}
+  - {seq: 3, filename: KR6c0055_003.yaml, hash: 'sha256:e216207cfeaea241edde2fd545073d6613fd18519b6c4fe23437e89e594b98f4'}
+  - {seq: 4, filename: KR6c0055_004.yaml, hash: 'sha256:192c52e961575754a69657337470c44642a3083c5de3792d0bc88a772e839882'}
+  - {seq: 5, filename: KR6c0055_005.yaml, hash: 'sha256:77b9564ee00ca924e2a0d838851eaf59d57ed3343a11d0458e77f55dfdff9a3c'}
+  - {seq: 6, filename: KR6c0055_006.yaml, hash: 'sha256:9be647028ef4b3adef7f36cf9152800e3053a25f1c6037648bda366bba2ef5ae'}
+  - {seq: 7, filename: KR6c0055_007.yaml, hash: 'sha256:eeb9b2664d9cdc48602403d8bca029b401c3b974fe4251d59c5fad76b256e0f3'}
+  - {seq: 8, filename: KR6c0055_008.yaml, hash: 'sha256:1d94e7d8990772f63d736f877c3fcd3817d0a3a4b04d6be898d2bc1fe37abc9b'}
+  - {seq: 9, filename: KR6c0055_009.yaml, hash: 'sha256:e674181e29a46435883d010367ef0b66426a39aba22f68ad3fdeff067fb34b7c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0055_000.markers.yaml, hash: 'sha256:68163072e427cb80b5f8517a70e0a43533972a3fae810340575f554134c389fb'}
+  - {seq: 1, role: markers, filename: assets/KR6c0055_001.markers.yaml, hash: 'sha256:7308f85687e229f4555a9284331297e655f1681ec9bc1733ffc64b99791ff3b2'}
+  - {seq: 2, role: markers, filename: assets/KR6c0055_002.markers.yaml, hash: 'sha256:9ea1a47d06113fdde06aaad3c3d72d5f9700c7cf2fec851e5ddbe73bb51d4661'}
+  - {seq: 3, role: markers, filename: assets/KR6c0055_003.markers.yaml, hash: 'sha256:e339bcdb8370fae10a2e5d851e8a328300a8a6f43adbe0072efafb800e1d8c2b'}
+  - {seq: 4, role: markers, filename: assets/KR6c0055_004.markers.yaml, hash: 'sha256:11cd83d81f1475a35918475241fd1c9298a9bfacd6018db4bab084ff9a4598c9'}
+  - {seq: 5, role: markers, filename: assets/KR6c0055_005.markers.yaml, hash: 'sha256:c0ec73d65255dac716581a0c887a88581fa0c04250a28a219e7cbe10811da4b2'}
+  - {seq: 6, role: markers, filename: assets/KR6c0055_006.markers.yaml, hash: 'sha256:925c465cfefcf250ef976f5895067a40b8f019e40d94881fb3d6e6003c2b53a1'}
+  - {seq: 7, role: markers, filename: assets/KR6c0055_007.markers.yaml, hash: 'sha256:7618d5e112165ae0a58b2f362278dcaa5b32032acd5e6103101694dc13b93855'}
+  - {seq: 8, role: markers, filename: assets/KR6c0055_008.markers.yaml, hash: 'sha256:94fdbd7598b2d1b2614f636b87ac6c73be7b22e183c2e42b143722c2f625b79e'}
+  - {seq: 9, role: markers, filename: assets/KR6c0055_009.markers.yaml, hash: 'sha256:bc5e1c839e40f41c21f3bd2b4d74e9e6be15ff67020223d31e17ef3a5aebf8b8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0055_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 467-A 銷釋金剛科儀會要註解序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0055_X_000-mulu-2
+    span:
+    - front
+    - 748
+    - 748
+  label: 銷釋金剛科儀會要註解十卷總目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0055_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16822
+  label: 銷釋金剛科儀會要註解卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0055_X_001-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0055_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15437
+  label: 銷釋金剛科儀會要註解卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 14999
+  label: 銷釋金剛科儀會要註解卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 法會因由分第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-2
+    span:
+    - body
+    - 1863
+    - 1863
+  label: 善現啟請分第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-3
+    span:
+    - body
+    - 4782
+    - 4782
+  label: 大乘正宗分第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-4
+    span:
+    - body
+    - 6849
+    - 6849
+  label: 妙行無住分第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-5
+    span:
+    - body
+    - 8669
+    - 8669
+  label: 如理實見分第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-6
+    span:
+    - body
+    - 10524
+    - 10524
+  label: 正信希有分第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0055_X_003-mulu-7
+    span:
+    - body
+    - 13285
+    - 13285
+  label: 無得無說分第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15711
+  label: 銷釋金剛科儀會要註解卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 依法出生分第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-2
+    span:
+    - body
+    - 2284
+    - 2284
+  label: 一相無相分第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-3
+    span:
+    - body
+    - 5720
+    - 5720
+  label: 莊嚴淨土分第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-4
+    span:
+    - body
+    - 9149
+    - 9149
+  label: 無為福勝分第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-5
+    span:
+    - body
+    - 11075
+    - 11075
+  label: 尊重正教分第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0055_X_004-mulu-6
+    span:
+    - body
+    - 12760
+    - 12760
+  label: 如法受持分第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0055_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13256
+  label: 銷釋金剛科儀會要註解卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0055_X_005-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 離相寂滅分第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0055_X_005-mulu-2
+    span:
+    - body
+    - 3997
+    - 3997
+  label: 持經功德分第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0055_X_005-mulu-3
+    span:
+    - body
+    - 6241
+    - 6241
+  label: 能淨業障分第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0055_X_005-mulu-4
+    span:
+    - body
+    - 8608
+    - 8608
+  label: 究竟無我分第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 14632
+  label: 銷釋金剛科儀會要註解卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 一體同觀分第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-mulu-2
+    span:
+    - body
+    - 3885
+    - 3885
+  label: 法界通化分第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-mulu-3
+    span:
+    - body
+    - 6069
+    - 6069
+  label: 離色離相分第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-mulu-4
+    span:
+    - body
+    - 8584
+    - 8584
+  label: 非說所說分第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0055_X_006-mulu-5
+    span:
+    - body
+    - 11601
+    - 11601
+  label: 無法可得分第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 13799
+  label: 銷釋金剛科儀會要註解卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 淨心行善分第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-mulu-2
+    span:
+    - body
+    - 3064
+    - 3064
+  label: 福智無比分第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-mulu-3
+    span:
+    - body
+    - 5580
+    - 5580
+  label: 化無所化分第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-mulu-4
+    span:
+    - body
+    - 8580
+    - 8580
+  label: 法身非相分第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0055_X_007-mulu-5
+    span:
+    - body
+    - 11006
+    - 11006
+  label: 無斷無滅分第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 14359
+  label: 銷釋金剛科儀會要註解卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 不受不貪分第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-mulu-2
+    span:
+    - body
+    - 3464
+    - 3464
+  label: 威儀寂靜分第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-mulu-3
+    span:
+    - body
+    - 5528
+    - 5528
+  label: 一合相理分第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-mulu-4
+    span:
+    - body
+    - 9280
+    - 9280
+  label: 知見不生分第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0055_X_008-mulu-5
+    span:
+    - body
+    - 11887
+    - 11887
+  label: 應化非真分第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0055_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 13744
+  label: 銷釋金剛科儀會要註解卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0055_X_009-mulu-1
+    span:
+    - body
+    - 4629
+    - 4629
+  label: 後文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0055_X_009-mulu-2
+    span:
+    - body
+    - 13236
+    - 13236
+  label: No. 467-B 銷釋金剛科儀會要註解後䟦
+  type: mulu
+  level: 1
+hash: sha256:c9b455600e9fc924acb556a33b3db687a6d544a894144b612a579bbbd8ead7bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
