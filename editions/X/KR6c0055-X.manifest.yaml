@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0055_000-X.yaml, hash: 'sha256:f9c667b81c341f883f2fd3d0d234eeae3a5f20947c9511ed7057722b1216018b'}
+  - {seq: 0, filename: KR6c0055_000-X.yaml, hash: 'sha256:e96968d02301095285d037ebb93ef081a9c835677616486a4e10c65be5232d3a'}
   - {seq: 1, filename: KR6c0055_001-X.yaml, hash: 'sha256:f81271a4e0f97f774f93fc8c503bb108ab84c57b966c5387ddf9230b99398a8e'}
   - {seq: 2, filename: KR6c0055_002-X.yaml, hash: 'sha256:d8c739002e7a6db9340f3c61302f35638127813e46d22c1448a97d4d4c4a5f87'}
   - {seq: 3, filename: KR6c0055_003-X.yaml, hash: 'sha256:14bdb82902742d660ddfade419482a405a393d2d099bf9541db024974a3467dd'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6c0055_008-X.yaml, hash: 'sha256:f3c2c91d4413fec9989352fce1d5060ecabb92fc274d3a991476f027b4119394'}
   - {seq: 9, filename: KR6c0055_009-X.yaml, hash: 'sha256:4a182422f17658309156dc336042eef3b16c1cb34f79f97a3ca95fb1f10c41be'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0055_000-X.markers.yaml, hash: 'sha256:133de0addfa5a23fe32e01138596cbe27c8eb48bd4d78c3d6244d531414214f5'}
+  - {seq: 0, role: markers, filename: assets/KR6c0055_000-X.markers.yaml, hash: 'sha256:e4768b42c5347d2e77ddc2de4a1f02d6a685cae526e672312e1c6024267e5e90'}
   - {seq: 1, role: markers, filename: assets/KR6c0055_001-X.markers.yaml, hash: 'sha256:96df81732b6c0e3d44d075bb5d2aa617617c0497389f87c13ac8190a4b9ec5a6'}
   - {seq: 2, role: markers, filename: assets/KR6c0055_002-X.markers.yaml, hash: 'sha256:6b1bebd5be7958d8591b0fa04a723bbc2509221220eee8ce38d6200822efc711'}
   - {seq: 3, role: markers, filename: assets/KR6c0055_003-X.markers.yaml, hash: 'sha256:ac196cdaa3109c0b6f770880ad36e4ca3cf343ac56f1ffe375c79c6492de88ca'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0055_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 467-A 銷釋金剛科儀會要註解序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0055_X_000-mulu-2
     span:
-    - front
+    - body
     - 748
     - 748
   label: 銷釋金剛科儀會要註解十卷總目錄
@@ -501,4 +501,4 @@ table_of_contents:
   label: No. 467-B 銷釋金剛科儀會要註解後䟦
   type: mulu
   level: 1
-hash: sha256:16461729052491bdf61349c65905ab0555a48e31b8b499294f7e8b1ccde0a608
+hash: sha256:0de806c35265108cf82ba96284e36335d5482dd2c87eec6af36234e02d144955
